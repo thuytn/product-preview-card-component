@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [product preview card site](https://thuytn.github.io/product-preview-card-component/)
 
 ## Built with
 
